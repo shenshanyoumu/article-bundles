@@ -28,7 +28,9 @@ Jose Aguinaga 的文章[2016 年学习 JS 的感受如何?](https://hackernoon.c
 ##JS APP 的构建要素
 
 - 传统的 JS Web 框架图如下
+
   ![传统Web开发](./asset/old-web-dev.PNG)
 
 - 现代 JS APP 开发框架图如下
+
   ![现代Web开发](./asset/modern-web-dev.PNG)
