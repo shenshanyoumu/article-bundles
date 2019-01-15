@@ -1,2 +1,3 @@
 # article-bundles
-collect some valued articles and translate into chinese
+
+从网络上收集整理一系列优质的前端技术文章，帮助大家跟进技术发展脉络
