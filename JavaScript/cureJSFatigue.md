@@ -34,3 +34,32 @@ Jose Aguinaga 的文章[2016 年学习 JS 的感受如何?](https://hackernoon.c
 - 现代 JS APP 开发框架图如下
 
   ![现代Web开发](./asset/modern-web-dev.PNG)
+
+## CS 架构谱系
+
+如果针对传统的静态站点开发，采用服务端返回 HTML 页面到浏览器渲染的方式是一种不错的体验；但是目前 Web APP 具有很多交互逻辑和数据请求操作，这种场景更适合浏览器端处理渲染。  
+![Web技术谱系](./asset/web-spectrum.png)
+
+## JS 学习路线图
+
+- JS 基础知识
+- React 框架
+- 基于 create-react-APP 这类脚手架快速搭建可用的应用
+- 掌握 ES6
+- 关注应用状态管理  
+  ![web状态管理](./asset/web-state-management.png)
+- Redux 学习，包含 Redux 生态
+- 基于 GraphQL 构建 API
+
+## 进一步学习计划
+
+- Vue.js
+- React Native
+- Elm，这种函数式编程语言可以转换为 JS
+- Node 及其框架
+- JS 测试套件，比如 Jest/Enzyme 等
+- 前端打包工具，比如 Webpack/Parcel/Rollup 等
+- 前端类型系统，比如 Typescript/Flow
+- JS 应用中的 CSS，比如 CSS Module/ Styled Components
+- 面向桌面端的 JS 开发，比如 Electron
+- 函数式编程思维，react 生态逐渐使用函数式编程范式重写
