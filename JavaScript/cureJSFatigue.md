@@ -38,7 +38,7 @@ Jose Aguinaga 的文章[2016 年学习 JS 的感受如何?](https://hackernoon.c
 ## CS 架构谱系
 
 如果针对传统的静态站点开发，采用服务端返回 HTML 页面到浏览器渲染的方式是一种不错的体验；但是目前 Web APP 具有很多交互逻辑和数据请求操作，这种场景更适合浏览器端处理渲染。  
-![Web技术谱系](./asset/web-spectrum.png)
+![Web技术谱系](./asset/web-spectrum.PNG)
 
 ## JS 学习路线图
 
@@ -47,7 +47,7 @@ Jose Aguinaga 的文章[2016 年学习 JS 的感受如何?](https://hackernoon.c
 - 基于 create-react-APP 这类脚手架快速搭建可用的应用
 - 掌握 ES6
 - 关注应用状态管理  
-  ![web状态管理](./asset/web-state-management.png)
+  ![web状态管理](./asset/web-state-management.PNG)
 - Redux 学习，包含 Redux 生态
 - 基于 GraphQL 构建 API
 
