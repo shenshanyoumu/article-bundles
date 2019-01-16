@@ -53,7 +53,7 @@ Jose Aguinaga 的文章[2016 年学习 JS 的感受如何?](https://hackernoon.c
 
 ## 进一步学习计划
 
-- Vue.js
+- Vue
 - React Native
 - Elm，这种函数式编程语言可以转换为 JS
 - Node 及其框架
